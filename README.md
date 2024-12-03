@@ -1,6 +1,6 @@
 # Product Management System API
 
-The **Product Management System API** is the backend for an Angular 16 Product Management System Application. Built with **C#** and **.NET Core**, this REST API is designed to simplify the daily tasks of administrators, enabling seamless management of products, categories, and their daily ToDo tasks.
+The **Product Management System API** is the backend for an Angular 16 Product Management System Application. Built with **C#** and **.NET Core**, this REST API is designed to simplify the daily tasks of administrators, enabling seamless management of products, categories.
 
 ## Features
 
@@ -8,7 +8,6 @@ The **Product Management System API** is the backend for an Angular 16 Product M
   Basic Create, Read, Update, and Delete functionalities for:
   - Products
   - Categories
-  - Tasks
 
 - **Unit Testing**:  
   Comprehensive test cases ensure the API is reliable and robust.
